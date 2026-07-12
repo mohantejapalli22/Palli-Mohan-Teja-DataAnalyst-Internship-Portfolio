@@ -30,7 +30,8 @@ It consolidates all tasks, deliverables, and reflections into one professional p
 
 - **Task 5 – Capstone Integration & Portfolio Finalization**  
   - This master repository (central hub)  
-  - [Final Presentation Deck]()
+  - [Final Presentation Deck](final_internship_presentation_sales_analytics_dashboard_insights.pptx)
+    
 ---
 
 ## 📊 Key Skills Demonstrated
