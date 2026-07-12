@@ -10,12 +10,12 @@ It consolidates all tasks, deliverables, and reflections into one professional p
 ## 🗂️ Repository Structure
 - **Task 1 – Data Wrangling**  
   - [GitHub Repo](https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task1.git)  
-  - [LinkedIn Video]((https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-python-pandas-activity-7463121489211396098-V6yH?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc))  
+  - [LinkedIn Video](https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-python-pandas-activity-7463121489211396098-V6yH?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc)  
   - Deliverables: Data dictionary, cleaning scripts, cleaned dataset  
 
 - **Task 2 – Exploratory Data Analysis (EDA) & Business Intelligence**  
   - [GitHub Repo](https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task2.git)  
-  - [LinkedIn Video]((https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-eda-businessintelligence-activity-7465707751676022784-wyea?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc))  
+  - [LinkedIn Video](https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-eda-businessintelligence-activity-7465707751676022784-wyea?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc)  
   - Deliverables: EDA report, SQL queries, static dashboard mock‑up  
 
 - **Task 3 – Deep‑Dive Analysis & Interactive Dashboarding**  
