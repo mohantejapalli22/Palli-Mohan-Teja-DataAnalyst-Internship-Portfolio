@@ -14,17 +14,17 @@ It consolidates all tasks, deliverables, and reflections into one professional p
   - Deliverables: Data dictionary, cleaning scripts, cleaned dataset  
 
 - **Task 2 – Exploratory Data Analysis (EDA) & Business Intelligence**  
-  - [GitHub Repo]([INSERT_LINK](https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task2.git))  
+  - [GitHub Repo](https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task2.git)  
   - [LinkedIn Video]((https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-eda-businessintelligence-activity-7465707751676022784-wyea?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc))  
   - Deliverables: EDA report, SQL queries, static dashboard mock‑up  
 
 - **Task 3 – Deep‑Dive Analysis & Interactive Dashboarding**  
-  - [GitHub Repo]((https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task3.git))  
+  - [GitHub Repo](https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task3.git)  
   - [LinkedIn Video](https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-powerbi-python-activity-7470523582977056768-TuhN?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc)  
   - Deliverables: Deep‑dive report, interactive dashboard (Power BI/Tableau)  
 
 - **Task 4 – Data Storytelling & Statistical Validation**  
-  - [GitHub Repo]((https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task4.git))  
+  - [GitHub Repo](https://github.com/mohantejapalli22/ApexPlanet-Data-Analytics---Task4.git)  
   - [LinkedIn Video](https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-datastorytelling-statisticalanalysis-ugcPost-7481957974589239296-jZra/?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc)  
   - Deliverables: Final presentation deck, hypothesis testing summary  
     
