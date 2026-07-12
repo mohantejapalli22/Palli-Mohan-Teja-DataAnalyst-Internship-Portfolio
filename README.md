@@ -28,6 +28,9 @@ It consolidates all tasks, deliverables, and reflections into one professional p
   - [LinkedIn Video](https://www.linkedin.com/posts/mohan-teja-palli-82b158367_dataanalytics-datastorytelling-statisticalanalysis-ugcPost-7481957974589239296-jZra/?utm_source=share&utm_medium=member_android&rcm=ACoAAFr4C6MBj3NoCOJarys006eqks1jFF1-lNc)  
   - Deliverables: Final presentation deck, hypothesis testing summary  
 
+- **Task 5 – Capstone Integration & Portfolio Finalization**  
+  - This master repository (central hub)  
+  - [Final Presentation Deck]()
 ---
 
 ## 📊 Key Skills Demonstrated
